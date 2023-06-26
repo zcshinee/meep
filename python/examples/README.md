@@ -108,3 +108,5 @@ Computes the radiation pattern of a simple point source "antenna". Explores `add
 #### GDSII Import
 
 #### Adjoint Solver
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zcshinee/meep/tree/master/python/examples/HEAD)
