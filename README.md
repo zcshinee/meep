@@ -39,3 +39,6 @@ We kindly request that you cite the following paper in any published work for wh
 ## Documentation
 
 See the [manual on readthedocs](https://meep.readthedocs.io/en/latest) for the latest documentation.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fzcshinee%2Fmeep/HEAD)
